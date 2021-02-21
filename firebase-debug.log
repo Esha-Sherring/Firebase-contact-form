@@ -1,0 +1,21 @@
+[debug] [2021-02-21T15:41:11.803Z] ----------------------------------------------------------------------
+[debug] [2021-02-21T15:41:11.807Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Arpan\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-02-21T15:41:11.807Z] CLI Version:   9.4.0
+[debug] [2021-02-21T15:41:11.808Z] Platform:      win32
+[debug] [2021-02-21T15:41:11.808Z] Node Version:  v12.18.3
+[debug] [2021-02-21T15:41:11.810Z] Time:          Sun Feb 21 2021 21:11:11 GMT+0530 (India Standard Time)
+[debug] [2021-02-21T15:41:11.811Z] ----------------------------------------------------------------------
+[debug] [2021-02-21T15:41:11.811Z] 
+[debug] [2021-02-21T15:41:11.825Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-02-21T15:41:11.826Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Arpan\Desktop\Firebase Contact Form
+
